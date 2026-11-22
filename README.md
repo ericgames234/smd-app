@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # smd-app
 
 Personal finance ledger for the command line: balances, spending and monthly reports from a CSV file.
@@ -16,18 +15,4 @@ Personal finance ledger for the command line: balances, spending and monthly rep
 
 ## Author
 
-<ericgames234>
-=======
-# smd-app
-
-Personal finance ledger for the command line: balances, spending and monthly reports from a CSV file.
-
-## Run it
-
-    uv run ledger balance
-    uv run ledger spending
-
-## Author
-
-<ericgames234>
->>>>>>> ba14193ccb92d20eb31306924762bf3cc2ccfec9
+ericgames234
